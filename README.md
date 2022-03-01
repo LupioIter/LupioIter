@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LupioIter
-- 👀 I’m interested in gamedev and software engineering ^^
-- 🌱 I’m currently learning computer science, Python, 3d and motion design
-- 💞️ I’m looking to collaborate on indie games!
+- 👀 I’m interested in software engineering ^^
+- 🌱 I’m currently learning fronted and Python.
+- 💞️ I’m looking to collaborate!
 - 📫 How to reach me - skyuii389@gmail.com
 
 <!---
